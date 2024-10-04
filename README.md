@@ -1,5 +1,8 @@
 # PCOS Prediction Using Machine Learning
 
+![OUTPUT](https://github.com/user-attachments/assets/e65a41fe-29cd-4a6b-9a83-52992b56f18f)
+
+
 ## Project Overview
 
 **PCOS Prediction** is a machine learning-based tool designed to assist in diagnosing Polycystic Ovary Syndrome (PCOS) by analyzing ovarian ultrasound images. This project automates the classification process, which typically requires manual interpretation by specialists, making the process faster and less prone to human error.
